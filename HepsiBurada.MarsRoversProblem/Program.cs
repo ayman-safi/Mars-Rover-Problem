@@ -1,12 +1,11 @@
-﻿
-using MarsRover.Business.Abstract;
+﻿using MarsRover.Business.Abstract;
 using MarsRover.Business.Concrete;
 using MarsRover.Business.Models;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Linq;
 
-namespace HepsiBurada.MarsRoversProblem
+namespace MarsRovers.App
 {
     public class Program
     {
@@ -21,7 +20,7 @@ namespace HepsiBurada.MarsRoversProblem
 
                 // Entry region
                 Console.WriteLine("Please Enter upper-right coordinates bounderies:");
-                var coordinatesBoundaries = Console.ReadLine().Trim().Split(' ').Select(int.Parse ).ToList();
+                var coordinatesBoundaries = Console.ReadLine().Trim().Split(' ').Select(int.Parse).ToList();
 
                 Console.WriteLine("Please Enter Current Postion of The Rover:");
                 var currnetPosition = Console.ReadLine().ToString();
@@ -36,14 +35,14 @@ namespace HepsiBurada.MarsRoversProblem
                     MovesSet = movesSet
                 };
 
-               var output = orientationService.StartMovement(movementModel);
+                var output = orientationService.StartMovement(movementModel);
 
                 Console.WriteLine($"{output}");
 
                 Console.WriteLine("\npress any key to exit ...");
                 Console.ReadLine();
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 Console.WriteLine("\n Oops someThing Went Wrong ! \n Error Details:" + ex);
             }
@@ -54,7 +53,7 @@ namespace HepsiBurada.MarsRoversProblem
         private static IServiceProvider ServicesRegisteration()
         {
             var collection = new ServiceCollection();
-            
+
             collection.AddScoped<IOrientationService, OrientationService>();
             IServiceProvider serviceProvider = collection.BuildServiceProvider();
             return serviceProvider;
