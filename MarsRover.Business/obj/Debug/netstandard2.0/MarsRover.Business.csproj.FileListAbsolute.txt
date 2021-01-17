@@ -1,0 +1,9 @@
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\MarsRover.Business\bin\Debug\netstandard2.0\MarsRover.Business.deps.json
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\MarsRover.Business\bin\Debug\netstandard2.0\MarsRover.Business.dll
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\MarsRover.Business\bin\Debug\netstandard2.0\MarsRover.Business.pdb
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\MarsRover.Business\obj\Debug\netstandard2.0\MarsRover.Business.csprojAssemblyReference.cache
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\MarsRover.Business\obj\Debug\netstandard2.0\MarsRover.Business.AssemblyInfoInputs.cache
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\MarsRover.Business\obj\Debug\netstandard2.0\MarsRover.Business.AssemblyInfo.cs
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\MarsRover.Business\obj\Debug\netstandard2.0\MarsRover.Business.csproj.CoreCompileInputs.cache
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\MarsRover.Business\obj\Debug\netstandard2.0\MarsRover.Business.dll
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\MarsRover.Business\obj\Debug\netstandard2.0\MarsRover.Business.pdb

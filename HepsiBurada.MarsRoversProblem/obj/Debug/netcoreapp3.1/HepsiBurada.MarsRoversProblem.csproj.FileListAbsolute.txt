@@ -1,0 +1,17 @@
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\HepsiBurada.MarsRoversProblem\bin\Debug\netcoreapp3.1\HepsiBurada.MarsRoversProblem.exe
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\HepsiBurada.MarsRoversProblem\bin\Debug\netcoreapp3.1\HepsiBurada.MarsRoversProblem.deps.json
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\HepsiBurada.MarsRoversProblem\bin\Debug\netcoreapp3.1\HepsiBurada.MarsRoversProblem.runtimeconfig.json
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\HepsiBurada.MarsRoversProblem\bin\Debug\netcoreapp3.1\HepsiBurada.MarsRoversProblem.runtimeconfig.dev.json
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\HepsiBurada.MarsRoversProblem\bin\Debug\netcoreapp3.1\HepsiBurada.MarsRoversProblem.dll
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\HepsiBurada.MarsRoversProblem\bin\Debug\netcoreapp3.1\HepsiBurada.MarsRoversProblem.pdb
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\HepsiBurada.MarsRoversProblem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\HepsiBurada.MarsRoversProblem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\HepsiBurada.MarsRoversProblem\obj\Debug\netcoreapp3.1\HepsiBurada.MarsRoversProblem.AssemblyInfoInputs.cache
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\HepsiBurada.MarsRoversProblem\obj\Debug\netcoreapp3.1\HepsiBurada.MarsRoversProblem.AssemblyInfo.cs
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\HepsiBurada.MarsRoversProblem\obj\Debug\netcoreapp3.1\HepsiBurada.MarsRoversProblem.csproj.CoreCompileInputs.cache
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\HepsiBurada.MarsRoversProblem\obj\Debug\netcoreapp3.1\HepsiBurada.MarsRoversProblem.csproj.CopyComplete
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\HepsiBurada.MarsRoversProblem\obj\Debug\netcoreapp3.1\HepsiBurada.MarsRoversProblem.dll
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\HepsiBurada.MarsRoversProblem\obj\Debug\netcoreapp3.1\HepsiBurada.MarsRoversProblem.pdb
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\HepsiBurada.MarsRoversProblem\obj\Debug\netcoreapp3.1\HepsiBurada.MarsRoversProblem.genruntimeconfig.cache
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\HepsiBurada.MarsRoversProblem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\HepsiBurada.MarsRoversProblem\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll

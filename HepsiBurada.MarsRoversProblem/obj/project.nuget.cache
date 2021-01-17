@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "y7C0cFq19vwLqnzZPN9ddtq+6/WTN+zfq8qV06xtfHswJbojdTwhRFQoxXudpuwGS0RQKf8USCwMB/xgxLrNtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eymen\\source\\repos\\HepsiBurada.MarsRoversProblem\\HepsiBurada.MarsRoversProblem\\MarsRovers.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eymen\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\eymen\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

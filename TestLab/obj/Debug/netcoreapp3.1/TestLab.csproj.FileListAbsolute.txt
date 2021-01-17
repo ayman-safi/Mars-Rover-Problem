@@ -1,0 +1,12 @@
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\TestLab\bin\Debug\netcoreapp3.1\TestLab.deps.json
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\TestLab\bin\Debug\netcoreapp3.1\TestLab.dll
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\TestLab\bin\Debug\netcoreapp3.1\TestLab.pdb
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\TestLab\obj\Debug\netcoreapp3.1\TestLab.csprojAssemblyReference.cache
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\TestLab\obj\Debug\netcoreapp3.1\TestLab.AssemblyInfoInputs.cache
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\TestLab\obj\Debug\netcoreapp3.1\TestLab.AssemblyInfo.cs
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\TestLab\obj\Debug\netcoreapp3.1\TestLab.csproj.CoreCompileInputs.cache
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\TestLab\obj\Debug\netcoreapp3.1\TestLab.csproj.CopyComplete
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\TestLab\obj\Debug\netcoreapp3.1\TestLab.dll
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\TestLab\obj\Debug\netcoreapp3.1\TestLab.pdb
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\TestLab\bin\Debug\netcoreapp3.1\MarsRover.Business.dll
+C:\Users\eymen\source\repos\HepsiBurada.MarsRoversProblem\TestLab\bin\Debug\netcoreapp3.1\MarsRover.Business.pdb
